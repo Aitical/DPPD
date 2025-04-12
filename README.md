@@ -1,6 +1,6 @@
 <div align="center">
 
-# Degradation Prototype Assignment and Prompt Distribution Learning for All-in-One Image Restoration
+# Learning Dynamic Prompts for All-in-One Image Restoration
 
 [Gang Wu](https://scholar.google.com/citations?user=JSqb7QIAAAAJ), [Junjun Jiang](http://homepage.hit.edu.cn/jiangjunjun)*, [Kui Jiang](https://homepage.hit.edu.cn/jiangkui), [Xianming Liu](http://homepage.hit.edu.cn/xmliu), and [Liqiang Nie](https://liqiangnie.github.io/)
 
